@@ -9,5 +9,6 @@ div.footer{
   position: fixed;
     bottom: 0;
     right: 0;
-    width: 1000px;
+    width: 2000px;
+    font-size: 11px;
 }
