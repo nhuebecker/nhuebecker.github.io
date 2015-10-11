@@ -2,7 +2,13 @@ div.header {
   text-align: center;
   color: Black;
   font-family: 'Orbitron', sans-serif;
-  spacing:
+}
+
+div.header img{
+  position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 2000px;
 }
 
 div.footer{
