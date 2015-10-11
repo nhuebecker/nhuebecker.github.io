@@ -6,8 +6,8 @@ div.header {
 
 div.header img{
   position: fixed;
-  top: 0;
-  left: 0;
+  top: -10;
+  left: -10;
 }
 
 div.footer{
