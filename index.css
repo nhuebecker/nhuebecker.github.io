@@ -6,7 +6,7 @@ div.header {
 
 div.header img{
   position: relative;
-  right: -600;
+  left: 600;
 }
 
 div.footer{
