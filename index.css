@@ -5,10 +5,8 @@ div.header {
 }
 
 div.header img{
-  position: fixed;
-    bottom: 0;
-    right: 0;
-    width: 2000px;
+  position: relative;
+  right: -600;
 }
 
 div.footer{
