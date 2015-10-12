@@ -19,8 +19,11 @@ div.footer{
     font-size: 11px;
 }
 
-body{
+body {
+  background-color: #FFFFFF;
+}
+
+h1,h2,h3,h4,h5,h6,p,pre{
   /*Text Color may need to be Darker*/
   color: #021733;
-  background-color: #FFFFFF;
 }
