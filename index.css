@@ -13,9 +13,15 @@ div.header img{
 }
 
 div.footer{
-  position: relative;
+  position: fixed;
     bottom: 0;
     right: 0;
     width: 2000px;
     font-size: 11px;
+}
+
+body{
+  /*Text Color may need to be Darker*/
+  color: #021733;
+  background-color: #FFFFFF;
 }
